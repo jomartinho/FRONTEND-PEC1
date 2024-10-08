@@ -46,6 +46,10 @@ body {
     border-top-right-radius: 10px;
 }
 
+.no.seat {
+    visibility:hidden;
+}
+
 .seat.selected {
     background-color: #6feaf6;
 }
